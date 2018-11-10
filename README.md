@@ -1,2 +1,2 @@
 # openrave-Astar
-implement Astar algoritm in openrave
+implement Astar algorithm in openrave
